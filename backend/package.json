@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npm install nodemon --save-dev",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "dev": "npx nodemon server.js"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
